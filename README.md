@@ -56,7 +56,8 @@ int main() {
 }
 ```
 <img width="1467" height="688" alt="image" src="https://github.com/user-attachments/assets/1c367159-f797-4fa8-9257-bf1e838ef803" />
-<img width="731" height="751" alt="image" src="https://github.com/user-attachments/assets/88e32d9b-1609-4452-9324-a5a3c751280e" />
+<img width="576" height="656" alt="image" src="https://github.com/user-attachments/assets/6d6806d4-69bb-41d0-9bb6-988d1f870779" />
+
 
 ## 📝 Висновок  
 
