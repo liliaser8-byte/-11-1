@@ -1,7 +1,5 @@
 <img width="889" height="201" alt="image" src="https://github.com/user-attachments/assets/a02b3034-5096-4b74-8ea2-dd1a1a3cfabc" />
 <img width="833" height="66" alt="image" src="https://github.com/user-attachments/assets/472594e1-8652-4a37-8ac6-1af610ad656e" />
-<img width="454" height="666" alt="image" src="https://github.com/user-attachments/assets/5224a6d7-5ab6-401f-aacd-50caf96784f9" />
-
 
 Програма створює квадратну матрицю 4×4, зчитує її елементи, після чого для кожного стовпця обчислює середнє арифметичне тільки додатних чисел. Якщо у стовпці немає додатних елементів, програма повідомляє про це. Результати виводяться для кожного стовпця окремо.
 
@@ -59,6 +57,7 @@ int main() {
 ```
 <img width="1467" height="688" alt="image" src="https://github.com/user-attachments/assets/1c367159-f797-4fa8-9257-bf1e838ef803" />
 <img width="576" height="656" alt="image" src="https://github.com/user-attachments/assets/6d6806d4-69bb-41d0-9bb6-988d1f870779" />
+<img width="454" height="666" alt="image" src="https://github.com/user-attachments/assets/7f1c21b8-4007-4e60-ab29-58d0d9c3dcda" />
 
 
 ## 📝 Висновок  
